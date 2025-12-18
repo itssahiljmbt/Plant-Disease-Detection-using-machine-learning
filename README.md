@@ -176,13 +176,3 @@ Machine Learning & Full-Stack Development Enthusiast
 ## 📜 License
 
 This project is intended for **educational and research purposes only**.
-
----
-
-If you want, I can also:
-
-* Shorten this for **hackathons**
-* Rewrite it for **research-style projects**
-* Customize it for **resume / internship submissions**
-
-Just tell me 👍
