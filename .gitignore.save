@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# ML models & data
+*.h5
+*.keras
+*.ckpt
+data/
+dataset/
+images/
+train/
+test/
+
+# OS
+.DS_Store
+
+
